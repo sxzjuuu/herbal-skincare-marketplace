@@ -1,0 +1,6 @@
+streamlit==1.39.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+SQLAlchemy==2.0.30
+Pillow==10.3.0
